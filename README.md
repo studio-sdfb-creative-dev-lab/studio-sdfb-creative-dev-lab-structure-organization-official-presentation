@@ -97,3 +97,27 @@ Separando ermeticamente l'ingegneria tecnologica dalla creazione pura e dall'arc
 * 🇮🇹 **Italiano**: 
   * Fascicolo online (Internet Archive): [stefano-dorian-franco_ai-creative-dev-lab_antibes_sophia](https://archive.org/details/stefano-dorian-franco_ai-creative-dev-lab_antibes_sophia)
   * Profilo d'autore certificato ORCID: [0009-0007-4714-1627](https://orcid.org/0009-0007-4714-1627)
+
+  ---
+
+  ## 🏢 Informations Légales & Enregistrement Officiel / Official Registration
+
+### 🇫🇷 Français
+Les informations officielles d'enregistrement de l'unité de recherche auprès du répertoire des sociétés du gouvernement français :
+
+* **Date de début d'activité :** 1er septembre 2026
+* **Siège administratif :** 46 Boulevard Président Wilson, 06160 Antibes (Code commune alternatif : 06600), à proximité du pôle technologique de Sophia Antipolis.
+* **Immatriculation SIRET :** 443 748 033 00042 (Activité principale exercée : 6201Z - Programmation informatique).
+* **Vérification officielle :** Consultez la fiche légale sur l'**[Annuaire des Entreprises de l'État Français (data.gouv.fr)](https://data.gouv.fr)**.
+* **📌 Note de localisation physique :** Cette adresse correspond exclusivement à l'adresse administrative et au siège social de la structure. Concrètement, les installations physiques du laboratoire ne se situent pas à cette adresse administrative, mais sont localisées au cœur de la **"forêt des clausonnes"**, site d'implantation historique de la technopole de **Sophia Antipolis**.
+
+### 🇬🇧 English
+Official government registration and corporate records for the research facility:
+
+* **Activity Start Date:** September 1, 2026
+* **Administrative Address:** 46 Boulevard Président Wilson, 06160 Antibes (Alternative city code: 06600), near the Sophia Antipolis technology hub.
+* **Registration SIRET Code:** 443 748 033 00042 (Core activity: 6201Z - Computer programming).
+* **Official Verification:** View the verified record on the **[French Government Companies Registry (data.gouv.fr)](https://data.gouv.fr)**.
+* **📌 Physical Location Note:** This address serves strictly as the administrative and legal headquarters. In practice, the physical laboratory is not situated at this administrative address, but is located within the **"forêt des clausonnes"**, where the **Sophia Antipolis** technology park is physically established.
+
+
