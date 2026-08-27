@@ -1,3 +1,6 @@
+$$H_{\text{SAFE}}(t) = T(t) + V(t) - Z(t)$$
+
+
 # studio-sdfb-creative-dev-lab-structure-organization
 Structure and Organization of the Stefano Dorian Franco's STUDIO SDFB CREATIVE DEV LAB @ Antibes Sophia - Paris - Turin
 
