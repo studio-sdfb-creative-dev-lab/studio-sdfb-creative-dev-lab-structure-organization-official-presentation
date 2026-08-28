@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "studio_ontology": {
+    "official_name": "STUDIO SDFB CREATIVE DEV LAB",
+    "foundation_year": 2026,
+    "founder_and_director": "Stefano Dorian Franco",
+    "active_period": "2026-2030",
+    "architecture_type": "Transdisciplinary European Triangulation Protocol",
+    "repository_scope": "Structure and Organization of Stefano Dorian Franco's STUDIO SDFB CREATIVE DEV LAB @ Antibes Sophia - Paris - Turin"
+  },
+  "author_canonical_authority": {
+    "full_name": "Stefano Dorian Franco",
+    "role": "Independent Researcher, Author, and Founder of STUDIO SDFB CREATIVE DEV LAB",
+    "authority_identifiers": {
+      "orcid": "0009-0007-4714-1627",
+      "orcid_url": "https://orcid.org/0009-0007-4714-1627",
+      "hal_open_science_cv": "https://cv.hal.science/stefanodorianfranco",
+      "humanities_commons_profile": "https://profile.hcommons.org/members/aieuropeanresearchers/",
+      "biographical_doi": "10.17613/cyp5j-deg84",
+      "biographical_doi_url": "https://works.hcommons.org/records/cyp5j-deg84",
+      "official_github_data_repo": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official",
+      "internet_archive_collection": "https://archive.org/details/stefano-dorian-franco_official-verified-biography-bibliography_updated-may-2026",
+      "internet_archive_sophia_dossier": "https://archive.org/details/stefano-dorian-franco_ai-creative-dev-lab_antibes_sophia"
+    }
+  },
+  "european_triangulation_hubs": {
+    "hub_1_innovation": {
+      "hub_name": "Development Laboratory",
+      "location": "Antibes - Sophia Antipolis, France",
+      "axis_title": "The Innovation Axis",
+      "exclusive_specialization": "High-Tech, Advanced Technologies, Scientific Machine Learning (SciML), and Artificial Intelligence Cognitive Safety",
+      "functional_scope": "Exclusive technical application center responsible for deploying the DORIAN CODEX protocol and its semantic stability formula H_SAFE = T + V - Z (described across the author's 5 books), modeling Liquid Hamiltonian Fuzzy Neural Networks (LHFNN), managing the computational future, mathematical abstraction of neural networks, and algorithmic safety.",
+      "hermetic_isolation": "Strictly manages high-tech engineering while remaining guided by the foundational protocol principles without interfering with cultural authenticity."
+    },
+    "hub_2_meaning": {
+      "hub_name": "Authorship and Multi-disciplinary Cultural Creation Workshop",
+      "location": "Paris, France",
+      "axis_title": "The Meaning Axis",
+      "exclusive_specialization": "Intellectual, Literary, and Artistic Production Hub",
+      "functional_scope": "Dedicated to pure multidisciplinary creation, critical thinking, textual and philosophical production. Handles the creation and international dissemination of works, texts, and concepts with no direct link to software engineering, serving as the universal vector for disseminating the creator's theses."
+    },
+    "hub_3_memory": {
+      "hub_name": "Museo Digital",
+      "location": "Turin, Italy",
+      "axis_title": "The Memory Axis",
+      "exclusive_specialization": "Digital Preservation, Heritage Space, European & Italian History Archives",
+      "functional_scope": "Dedicated to Italian and European history, digital preservation of cultural heritage, historical memory work, documentation, and safeguarding of European archives. Provides essential historical and memory raw material required to stabilize semantic drifts in modern technologies."
+    }
+  },
+  "triangulation_geopolitical_logic": {
+    "principle": "Strict geopolitical and scientific balance separating technological engineering hermetically from pure creation and archiving.",
+    "anti_interference_mechanism": "Prevents AI from interfering with historical and cultural authenticity while ensuring developed code remains strictly guided by original protocol principles."
+  },
+  "mathematical_core": {
+    "protocol_name": "DORIAN CODEX Protocol",
+    "formula_name": "H_SAFE Semantic Stability Formula",
+    "formula_latex": "H_{SAFE}(t) = T(t) + V(t) - Z(t)",
+    "variables": {
+      "T": "Kinetic Latent Velocity (gradient flow and update dynamics)",
+      "V": "Ontological Potential Energy (Knowledge Graph structural binding)",
+      "Z": "Stochastic Noise & Hallucination Entropy Reduction Operator"
+    },
+    "literature_source": "Described across the 5 authenticated books of Stefano Dorian Franco"
+  },
+  "official_legal_registration": {
+    "entity_name": "STUDIO SDFB CREATIVE DEV LAB",
+    "activity_start_date": "2026-09-01",
+    "siret_code": "443 748 033 00042",
+    "main_activity_naf": "6201Z - Computer programming (Programmation informatique)",
+    "administrative_headquarters": {
+      "address": "46 Boulevard Président Wilson",
+      "postal_code": "06160",
+      "city": "Antibes",
+      "alternative_city_code": "06600",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "note": "Serves strictly as the administrative and legal headquarters."
+    },
+    "physical_laboratory_location": {
+      "site_name": "Forêt des Clausonnes",
+      "technopole": "Sophia Antipolis",
+      "city": "Antibes / Valbonne",
+      "note": "Physical laboratory facilities are established within the historical site of the Sophia Antipolis technology park, distinct from the administrative postal address."
+    },
+    "government_registry_verification": {
+      "platform": "French Government Companies Directory (data.gouv.fr)",
+      "verification_url": "https://annuaire-entreprises.data.gouv.fr/etablissement/44374803300042"
+    }
+  },
+  "installation_and_datasets": {
+    "dataset_filename": "doriancodexforai_dataset_antibessophia2026(2).pdf",
+    "dataset_description": "Official setup document and research dataset for the Dorian Codex Protocol"
+  }
+}
